@@ -18,8 +18,9 @@ Enjoy haha
 **Query Params `autochat` :**
 | Parameter | Type | Required | Description |
 | --- | --- | --- | --- |
-| `lang` | string | Yes |  Language List : [Here](https://dkmpostor-auto-chat.herokuapp.com/lang-list)
-| `message` | string | Yes | - | Your message |
+| `lang` | string | Yes |  ``lang-code`` : [Here](https://dkmpostor-auto-chat.herokuapp.com/lang-list)
+| `message` | string | Yes | Your message |
 
 # Error ?
 Contact me : [Telegram](https://t.me/dkmpostor)
+
