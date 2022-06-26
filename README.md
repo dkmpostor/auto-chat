@@ -4,6 +4,9 @@ This is used to make auto reply chat .\
 You can combine this API to your BOT ( Example : Whatsapp , Telegram , Discord , etc ) .\
 Enjoy haha 
 
+# Info
+This is using API from [SimSimi](https://simsimi.com/chat) and disable badword filter 😁
+
 # Sample Request
 
 **Request URL :**
@@ -23,4 +26,3 @@ Enjoy haha
 
 # Error ?
 Contact me : [Telegram](https://t.me/dkmpostor)
-
