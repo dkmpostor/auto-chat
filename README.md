@@ -24,9 +24,8 @@ This is using API from [SimSimi](https://simsimi.com/chat) and disable badword f
 | `lang` | string | Yes |  ``lang-code`` : [Here](https://dkmpostor-auto-chat.herokuapp.com/lang-list)
 | `message` | string | Yes | Your message |
 
-# Example
-![2022-06-27-14-23-42](https://user-images.githubusercontent.com/80010446/175884963-93b0fd57-30fc-4e1b-8c23-809d031ded08.gif)
-
+# Try sample bot
+> https://api.whatsapp.com/send/?phone=62895360491422&text=Hallo
 
 # Error ?
 Contact me : [Telegram](https://t.me/dkmpostor)
