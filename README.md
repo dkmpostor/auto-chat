@@ -29,3 +29,6 @@ This is using API from [SimSimi](https://simsimi.com/chat) and disable badword f
 
 # Error ?
 Contact me : [Telegram](https://t.me/dkmpostor)
+
+# Coming soon
+* Learning ( You can add bot answer )
