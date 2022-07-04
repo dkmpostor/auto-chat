@@ -1,13 +1,13 @@
-# Message Auto Reply 🤖
+## Message Auto Reply 🤖
 
 This is used to make auto reply chat .\
 You can combine this API to your BOT ( Example : Whatsapp , Telegram , Discord , etc ) .\
 Enjoy haha 
 
-# Info
+## Info
 This is using API from [SimSimi](https://simsimi.com/chat) and disable badword filter 😁
 
-# Sample Request
+## Sample Request
 
 **Base URL :**
 > https://dkmpostor-auto-chat.herokuapp.com/
@@ -24,11 +24,11 @@ This is using API from [SimSimi](https://simsimi.com/chat) and disable badword f
 | `lang` | string | Yes |  ``lang-code`` : [Here](https://dkmpostor-auto-chat.herokuapp.com/lang-list)
 | `message` | string | Yes | Your message |
 
-# Sample Bot ?
+## Sample Bot ?
 > Coming soon !
 
-# Error ?
+## Error ?
 Contact me : [Telegram](https://t.me/dkmpostor)
 
-# Coming soon
+## Coming soon
 * Learning ( You can add bot answer )
