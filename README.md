@@ -14,15 +14,15 @@ This is using API from [SimSimi](https://simsimi.com/chat) and disable badword f
 
 **Path :**
 | Path | For ? |
-| --- | --- |
+| :-: | :-: |
 | `lang-list` | Show available language code |
 | `autochat` | Send reply of Messages |
 
 **Query Params `autochat` :**
-| Parameter | Type | Required | Description |
-| --- | --- | --- | --- |
-| `lang` | string | Yes |  ``lang-code`` : [Here](https://dkmpostor-auto-chat.herokuapp.com/lang-list)
-| `message` | string | Yes | Your message |
+| Parameter | Type | Required | Default | Description |
+| :-: | :-: | :-: | :-: | :-: |
+| `message` | string | Yes | - | Your message |
+| `lang` | string | No | `id` | ``lang-code`` : [Here](https://dkmpostor-auto-chat.herokuapp.com/lang-list) |
 
 ## Sample Bot ?
 > Coming soon !
